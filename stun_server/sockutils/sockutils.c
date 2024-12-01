@@ -1,0 +1,4 @@
+#ifndef SOCKETUTIL_SOCKETUTIL_C
+#define SOCKETUTIL_SOCKETUTIL_C
+
+#endif
